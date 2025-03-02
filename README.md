@@ -1,4 +1,5 @@
 Console.WriteLine("How many people are in your group?");
+
 int People = Convert.ToInt32(Console.ReadLine());
 
 int totalcharge = People * 15;
