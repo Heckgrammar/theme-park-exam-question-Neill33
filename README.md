@@ -14,6 +14,7 @@ if (People >= 6 )
 
 Console.WriteLine(totalcharge);
 
+
 [4 people] https://github.com/user-attachments/assets/fe547eb5-0c8c-4dcb-8860-0050c89550f6
 
 [6 people] https://github.com/user-attachments/assets/9c743260-837b-4a49-ad80-b30f65d6d35b
